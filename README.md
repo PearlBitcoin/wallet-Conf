@@ -1,4 +1,4 @@
-# wallet-Conf
+# PearlBitcoin wallet-Conf
 You can setup a node on Windows using the following instructions.
 
 Download the PearlBitcoin Windows QT wallet from www.pearlbitcoin.org and upload the file to your Windows Computer.
